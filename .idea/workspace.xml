@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285cc763-9ac8-4693-9c02-b8e7b649712c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RFP_219_Employee_Wage_Pgm/com/bl/EmployeeWage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RFP_219_Employee_Wage_Pgm/com/bl/EmployeeWage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bl/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/EmployeeWage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
